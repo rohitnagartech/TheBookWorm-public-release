@@ -7,16 +7,6 @@
 🔖 Latest Version: v1.0.0
 📦 File Name: TheBookWorm.apk
 
-<div class="badge-base LI-profile-badge" 
-     data-locale="en_US" 
-     data-size="large" 
-     data-theme="dark" 
-     data-type="HORIZONTAL" 
-     data-vanity="rohitnagartech" 
-     data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rohitnagartech?trk=profile-badge">
-    Rohit Nagar
-  </a>
-</div>
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<a href="https://in.linkedin.com/in/rohitnagartech" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn">
+</a>
