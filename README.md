@@ -6,7 +6,3 @@
 <p align="center"> <a href="https://github.com/rohitnagartech/TheBookWorm-public-release/releases/download/v1.0/The.Book.Worm.apk" download> <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK"> </a> </p>
 🔖 Latest Version: v1.0.0
 📦 File Name: TheBookWorm.apk
-
-<a href="https://in.linkedin.com/in/rohitnagartech" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn">
-</a>
