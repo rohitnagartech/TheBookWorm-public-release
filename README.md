@@ -6,3 +6,17 @@
 <p align="center"> <a href="https://github.com/rohitnagartech/TheBookWorm-public-release/releases/download/v1.0/The.Book.Worm.apk" download> <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK"> </a> </p>
 🔖 Latest Version: v1.0.0
 📦 File Name: TheBookWorm.apk
+
+<div class="badge-base LI-profile-badge" 
+     data-locale="en_US" 
+     data-size="large" 
+     data-theme="dark" 
+     data-type="HORIZONTAL" 
+     data-vanity="rohitnagartech" 
+     data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rohitnagartech?trk=profile-badge">
+    Rohit Nagar
+  </a>
+</div>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
