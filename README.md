@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white" /> <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" /> <img src="https://img.shields.io/badge/Glide-34A853?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </p>
 
-<h3 align="center">You are unable to view the PDF because there is some technical problem</h3> <p align="center">
+<!-- <h3 align="center">You are unable to view the PDF because there is some technical problem</h3> <p align="center"> -->
 
 📥 Download the App
 <p align="center"> <a href="https://github.com/rohitnagartech/TheBookWorm-public-release/releases/download/v1.0/The.Book.Worm.apk" download> <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK"> </a> </p>
